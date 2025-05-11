@@ -1,6 +1,6 @@
 Hey, I am Shi Zihan, a middle school student, 14 years old, currently living in Xi'an, Shaanxi. A young person with a little knowledge of computer science.
 
-I know a little <del>python <del> C++.
+I know a little <del>python </del> C++<del>Markdown</del>.
 
 ### AchievementsIn 
 
