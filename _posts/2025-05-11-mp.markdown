@@ -6,10 +6,22 @@ header-style: text
 catalog:      true
 tags:
     - Web
-    - JavaScript
+    - Shi_zh
+    - Github
 ---
 
-> Shi_zh的
-别的不说了 终于做好了 部署的是Hux的GitHub项目@Hux
+> "Yeah It's on."
 
-— finish了
+## 正文
+
+其实在就想弄了 但因为太懒还懒得看markdown语法就没有弄 Github 国内有点慢 之后看看能不能迁移个镜像 
+
+部署的是Hux的GitHub项目@Hux
+
+别的不说了 终于做好了 
+
+## 其它
+
+记录一下时间2025/05/11/20-33-17
+
+
