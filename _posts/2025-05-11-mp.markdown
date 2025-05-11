@@ -1,0 +1,15 @@
+---
+layout:       post
+title:        "This is the website of Shi_zh."
+author:       "Shi_zh"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+> Shi_zh的
+别的不说了 终于做好了 部署的是Hux的GitHub项目@Hux
+
+— finish了
