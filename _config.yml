@@ -91,6 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "抖音", href: "http://douyin.com" },
+    { title: "抖音", href: "http://douyin.com" }
     
   ]
